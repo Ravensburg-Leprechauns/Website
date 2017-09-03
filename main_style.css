@@ -1,0 +1,919 @@
+/* CSS; main_style */
+
+/* BODY */
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url(Galerie/baseballfield.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+/* CONTAINER; setzt Seite */
+.container {
+  width: 1000px;
+  margin: 30px auto 0; 
+}
+
+/* HEADER 
+-------------------------------------------------------------- */
+header {
+  background: #46a62b;
+  background-image: url(Galerie/header2.jpg);
+  border: 2px solid #000; 
+  height: 100px;
+}
+
+.banner {
+  float:left;
+  height:100%;
+  padding-left: 46px;
+}
+
+.banner img {
+  height:100%;
+}
+
+/* ----------------------------------------------------------- */
+  
+/* FOOTER 
+-------------------------------------------------------------- */
+footer {
+  width: 1000px;
+  clear: both; 
+  background-color: #43a628; 
+}
+
+.follow {
+  float: left;
+  color: #e3001b;
+  padding-top: 5px;
+  margin-right: 10px;
+  text-shadow: 0 0 3px #000;
+}
+
+.footer-text {
+  margin-bottom: 10px;
+  float: left;
+  font-size: 15px;
+  color: #000;
+  text-shadow:1px 1px 2px #000;
+  text-align:center;
+  height: 35px;
+  width: 648px;
+  background-color: #43a628;
+  padding-top: 15px;
+  padding-left: 150px;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-left: 2px solid #000;
+}
+
+/* Social-Links */
+#social {
+  float:right;
+  height: 40px;
+  width: 178px;
+  background-color: #43a628;
+  padding-top: 10px;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-right: 2px solid #000;
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.sidebar img {
+  border-radius: 10px;
+}
+/* ---------------------------------------------------------- */
+
+/* NAVIGATION / MENUE
+------------------------------------------------------------- */
+#nav_menu ul {
+  margin: 0;
+  padding: 0;
+  line-height: 32px; 
+}
+
+#nav_menu li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: left;
+  position: relative;
+  background: #dcdcdc;
+  border-bottom: 2px solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  font-size: 18px;
+}
+
+#nav_menu ul li ul li {
+  font-size: 16px;
+  background: #dcdcdc; 
+}
+
+#nav_menu ul li a {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  text-decoration: none;
+  height: 30px;
+  width: 156.5px;
+  display: block;
+  color: #000;
+}
+
+
+#nav_menu ul ul {
+  position: absolute;
+  visibility: hidden;
+  top: 40px;
+}
+
+
+
+#nav_menu ul li:hover ul {
+  visibility: visible;
+}
+
+#nav_menu a {
+  padding: 4px;
+  text-decoration: none;
+  font-variant: small-caps;
+  color:#D8D8D8;
+  text-shadow:2px 2px 3px #D8D8D8;
+}
+
+#nav_menu li:hover {
+  background: #46a62b;
+  color: #dcdcdc;
+  border-radius:4px;
+}
+
+#nav_menu a:hover {
+  background: #46a62b; 
+  color:#dcdcdc;
+  border-radius:4px;
+}
+
+
+/* ----------------------------------------------------------- */
+
+/* Index
+-------------------------------------------------------------- */
+/* box.Willkommen */
+
+.box_willkommen {
+  width: 586px;
+  height: 292px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+  border: 2px solid #000;
+  
+}
+
+.box_willkommen h1 {
+
+  text-align:center;
+  text-shadow:1px 1px 2px #414141;
+  font-size: 35px;
+}
+
+#training {
+  border: 2px solid #000;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#stollen {
+color: e3001b;
+}
+
+#tab {
+  padding-right: 12px;
+}
+
+#tab2 {
+  padding-right: 7px;  
+}
+
+#tab3 {
+  padding-right: 3px;
+}
+
+#tab4 {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+/* ---------------------- */
+/* box.Ligatabelle */
+.box_tabelle {
+  width: 306px;
+  height: 277px;
+  padding-bottom:20px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-right:20px;
+  padding-left:20px;
+  
+  border: 2px solid #000;
+  background: #dcdcdc;
+  text-align: center;
+  
+  
+}
+
+.box_tabelle td {
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: center;
+}
+
+#team {
+  text-align: left;
+}
+
+#leps {
+  background: #46a62b; 
+}
+/* ---------------------- */
+/* box.News */
+.box_news {	
+  width: 586px;
+  height: 480px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+  border: 2px solid #000;
+  
+}
+
+/* ---------------------- */
+/* box.slieder */
+
+.slider{
+  width: 586px;
+  height: 420px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+  border: 2px solid #000;
+	
+}
+
+
+/* ---------------------- */
+/* box.Twitter */
+.box_twitter {
+  width: 326px;
+  height: 480px;
+  float: left;
+  border: 2px solid #000;
+  background: #dcdcdc;
+  text-align: center;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+/* ---------------------- */
+/* box.Sponsoren */
+.box_sponsoren {
+  width: 281px;
+  height: 200px;
+  float: left;
+  border: 2px solid #000;
+  margin-bottom:20px;
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #dcdcdc;
+  text-align: center;
+}
+
+
+/* ---------------------- */
+/* box.Gegner */
+.box_gegner {	
+  width: 281px;
+  height: 200px;
+  float: left;
+  border: 2px solid #000;
+  margin-bottom:20px;
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #dcdcdc;
+  text-align: center;
+}
+
+.gegner_box {
+  padding-top: 16px;
+}
+
+.box_gegner img {
+
+}
+/* ---------------------- */
+/* box.Werbung */
+.box_werbung {
+  width: 326px;
+  height: 200px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid #000;
+  background: #dcdcdc;
+  text-align:center;
+  
+}
+
+.box_werbung img {
+	padding-top: 10px;
+ 
+}
+/* ---------------------- */
+/* box.Sponsoren */
+.box_sponsoren {
+}
+
+.hauptsponsor_box {
+  opacity:0.95;
+  padding-top: 16px;
+}
+
+.box_sponsoren img {
+  
+}
+
+/* Überschrift Boxen */
+#saison_schrift {
+  font-size: 25px;
+  padding-top: 5px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* SAISON 
+-------------------------------------------------------------- */
+/* box.Spielplan */
+.box_spielplan_saison {
+  width: 500px;
+  height: 430px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+}
+
+.box_spielplan_saison td {
+  padding: 2px;
+  text-align: center;
+}
+/* ---------------------- */
+/* box.Tabelle_Saison */
+.box_saison_tabelle {
+  height: 240px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  background: #dcdcdc;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  width: 410px;
+}
+
+.box_saison_tabelle td {
+  padding: 2px;
+  text-align: center;
+}
+/* ---------------------- */
+/* box.Gegner_Saison */
+.box_gegner_saison {
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #dcdcdc;
+  height: 170px;
+  width: 410px;
+}
+
+.box_gegner_saison img{
+ 
+}
+
+.home {
+  float: left;
+  width: 170px;
+  text-align: center;
+  padding-top:-5px;
+}
+
+.Vs {
+  float: left;
+  width: 50px;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 10px;
+}
+
+.away  {
+  float: left;
+  width: 170px;
+  text-align: center;
+  padding-top: 0px;
+}
+
+/* ----------------------------------------------------------- */
+/* ---------------------- */
+
+
+/* Geschichte
+/* ----------------------------------------------------------- */
+.geschichte {
+  width: 966px;
+  padding-left: 15px;
+  padding-right: 15px;
+  float: left;
+  border: 2px solid #000;
+  background: #dcdcdc;
+  margin-top: 20px;
+
+}
+
+
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* SAISON 
+-------------------------------------------------------------- */
+/* box.Spielplan */
+.box_spielplan_saison {
+  width: 500px;
+  height: 430px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+}
+
+.box_spielplan_saison td {
+  padding: 2px;
+  text-align: center;
+}
+/* ---------------------- */
+/* box.Tabelle_Saison */
+.box_saison_tabelle {
+  height: 240px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  background: #dcdcdc;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  width: 410px;
+}
+
+.box_saison_tabelle td {
+  padding: 2px;
+  text-align: center;
+}
+/* ---------------------- */
+/* box.Gegner_Saison */
+.box_gegner_saison {
+  float: left;
+  border: 2px solid #000;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #dcdcdc;
+  height: 170px;
+  width: 410px;
+}
+
+.box_gegner_saison img{
+ 
+}
+
+.home {
+  float: left;
+  width: 180px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.Vs {
+  float: left;
+  width: 50px;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 10px;
+}
+
+.away  {
+  float: left;
+  width: 170px;
+  text-align: center;
+}
+
+/* ----------------------------------------------------------- */
+/* ---------------------- */
+
+
+/* Kader 
+/* ----------------------------------------------------------- */
+.kader {
+  width: 966px;
+  padding-left: 15px;
+  padding-right: 15px;
+  float: left;
+  border: 2px solid #000;
+  margin-bottom: 20px;
+  background: #dcdcdc;
+  margin-top: 20px;
+
+}
+
+.manschaftsfoto {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+.cards_galerie ul {
+  list-style: none;
+}
+
+.cards_galerie li {
+  float: left;
+  margin: 20px;
+}
+
+.cards_galerie img {
+  display: block;
+  border: 2px solid #0B610B;
+  box-shadow: 1px 1px 2px #000;
+}
+
+.reihe_1 {
+  padding-left: 60px;
+}
+
+.reihe_2 {
+  padding-left: 60px;
+}
+
+.reihe_3 {
+  padding-left: 60px;
+}
+
+.reihe_4 {
+  padding-left: 60px;
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* SPONSOREN 
+-------------------------------------------------------------- */
+/* box.Hauptsponsor */
+.hauptsponsor {
+  width: 956;
+  height: 400px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  background: #dcdcdc;
+ 
+}
+
+.hauptsponsor img {
+  
+}
+/* ---------------------- */
+/* box.Partner */
+.partner {
+  width: 955;
+  height: 300px;
+  float: left;
+  border: 2px solid #000;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #dcdcdc;
+ 
+}
+
+.partner img {
+  float: left;
+  padding-left: 50px;
+  padding-top: 10px;
+}
+
+#p1 {
+  width: 350px;
+  height: 200px;
+}
+
+#p2 {
+  width: 200px;
+  height: 200px;
+}
+
+#p3 {
+  padding-top: 100px;
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* Kontakt
+-------------------------------------------------------------- */
+/* box.Google Maps */
+#anfahrt {
+  width: 550px;
+  height: 550px;
+  float:left;
+  padding-left: 50px;
+  padding-top: 10px;
+  background: #BDBDBD;
+  border: 2px solid #000;
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+/* ---------------------- */
+/* box.Kontakt - Kontaktangaben */
+#kontakt {
+  width: 335px;
+  height: 556px;
+  float:left;
+  background: #BDBDBD;
+  border: 2px solid #000;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#kontakt a {
+color: #000;
+}
+/* ---------------------- */
+/* box.Kontaktformular */
+.formular {
+  width: 996px;
+  border: 2px solid #000;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #dcdcdc;
+}
+
+.abgesendet{
+  width: 996px;
+  border: 2px solid #000;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #dcdcdc;
+  text-align: center;
+}
+
+#anfahrt a {
+  color: #BDBDBD;
+}
+
+.formular h1 {
+  padding-left: 265px;
+}
+
+.formular p {
+  padding-left: 265px;
+}
+
+.formular hr {
+  padding-left: 265px;
+  width: 470px;
+} 
+
+.form-group {
+  padding-left: 265px;;
+}
+
+.form-group label {
+  font-size: 18px;
+}
+
+.form-group input {
+  width: 470px;
+  height: 35px;
+  margin-bottom: 25px;
+  margin-top: 5px;
+}
+
+.form-group textarea {
+  width: 470px;
+  margin-top: 5px;
+}
+
+.form-group button {
+  font-size: 16px;
+  height: 40px;
+  width: 180px;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+  background: #46a62b;
+  margin-left: 300px;
+  color: #dcdcdc;
+}
+
+.rückmelde{
+  width: 586px;
+  height: 292px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  background: #dcdcdc;
+  border: 2px solid #000;
+  
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* REGELN 
+-------------------------------------------------------------- */
+/* box.Regeln */
+.regeln {
+  float: left;
+  width: 996px;
+  height: 530px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #000;
+  background: #dcdcdc;
+}
+
+.regel_text {
+  text-align: center;
+  font-size: 20px;
+  padding: 20px; 
+}
+
+.regel_video {
+  text-align: center;
+}
+
+.regeln iframe {
+  border: 2px solid #000;
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* GALERIE
+-------------------------------------------------------------- */
+/* box.Galerie */
+.galerie_text {
+  width: 966px;
+  float: left;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+  border: 2px solid #000; 
+  background: #dcdcdc;
+}
+
+.galerie h2 {
+  color: #04B404;
+  text-shadow:1px 1px 2px #000;
+  text-align: center;
+}
+/* ---------------------- */
+/* boxen.Bilder */
+.box1 {
+  float: left;
+  padding-bottom: 20px;
+  padding-left: 70px;
+}
+
+.box2 {
+  float: left;
+}
+
+.galerie ul {
+  list-style: none;
+}
+
+.galerie li {
+  margin: 15px;
+}     
+
+.galerie img {
+  display: block;
+  border: 2px solid #0B610B;
+  box-shadow: 1px 1px 2px #000;
+}
+/* ---------------------- */
+/* ----------------------------------------------------------- */
+
+/* News 
+/* ----------------------------------------------------------- */
+
+.news {
+  float: left;
+  width: 896px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #000;
+  background: #dcdcdc;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  text-align: justify;	
+}
+
+.news h2 {
+  text-align: center;
+}
+
+#news_bild {
+  padding-right:20px;
+  padding-bottom:20px;
+  float:left;             
+}
+
+/*news_all*/
+.news_all{
+  float: left;
+  width: 896px;
+  margin-top: 10px;
+  margin-bottom:10px;
+  border: 2px solid #000;
+  background: #dcdcdc;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom:10px;
+  padding-top:10px;
+  text-align: justify;	
+	
+}
+
+.news_all img{
+	margin-left: 5px;
+	margin-right: 20px;
+  margin-top: 2px;
+	float:left;
+  border: 1px solid #000;
+}
+
+#datum {
+  padding-left: 20px;
+  font-size: 12px;
+}
+/* ---------------------- */
+
