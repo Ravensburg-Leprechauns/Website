@@ -1,39 +1,39 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="main_style.css"></link>  
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">       
-    <meta name="generator" content="PSPad editor, www.pspad.com">       
-    <title> News </title> 
+  <link rel="stylesheet" type="text/css" href="main_style.css"></link>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="PSPad editor, www.pspad.com">
+    <title> News </title>
 </head>
 
-<!-- Beginn Body 
+<!-- Beginn Body
 --------------- -->
 <body>
 <div class="container">
 <!-- Beginn container - schließt erst ganz am Ende -->
   <!-- Beginn Header -->
   <header>
-  
+
     <div class ="banner">
       <a href="index.php"> <img src="Galerie/banner_Logo.png"> </a>
     </div>
 
   </header>
   <!-- ------------------------------------------------------------------------------------------------->
-  
+
   <!-- Beginn Navigation -->
  <?php
  include ('menue.html');
  ?>
     <!-- Navigation Ende ------------------------------------------------------------------------------->
-	
+
 	<div class="news">
-	
-	<h2> Die Ravevnsburg Leprechaus starten mit neuem Hauptsponsor in die Saison 2016
+
+	<h2> Die Ravensburg Leprechaus starten mit neuem Hauptsponsor in die Saison 2016
 	 </h2>
 	<hr>
 	<br>
-	
+
 	<img id="news_bild" src="Galerie/BilderNewsLeprechauns/saleh_kl.png" />
 	Die Ravensburg Leprechaus sind sehr erfreut einen neuen Hauptsponsor für die Saison 2016 gefunden zu haben. Mit Hussein Saleh haben wir einen sehr motivierten Partner gefunden,
 	der laut eigener Aussage, sehr gerne kleinere Vereine unterstützt.
@@ -59,19 +59,19 @@
     <br>
   <br>
   <form><input Type="button" VALUE="zurück" onClick="history.go(-1);return true;"></form>
-	
-	
+
+
 	</div>
     <!-- Beginn Footer --------------------------------------------------------------------------------->
   <footer>
-  
+
   <div class = "footer_box">
     <div class=footer-text>
-    &copy; by Ravensburg Leprechauns 
+    &copy; by Ravensburg Leprechauns
     </div>
-    
-    <div id="social"> 
-      <aside class="sidebar"> 
+
+    <div id="social">
+      <aside class="sidebar">
       <tr>
       <div class = "follow"> <td> <b> #follow us </b> </td> </div>
       <td> <a href="https://www.facebook.com/RavensburgerLeprechauns/?fref=ts" target="_blank"> <img src="Galerie/Icons/icon-facebook.png"> </a>
@@ -80,8 +80,8 @@
       </aside>
     </div>
   </div>
-    
-    
+
+
   </footer> <!-- Footer schließt -->
   </div>  <!-- container schließt -->
   </body> <!-- Body schließt -->

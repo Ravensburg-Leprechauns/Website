@@ -1,13 +1,13 @@
 <html>
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="/Galerie/Icons/favicon.png">
-  <link rel="stylesheet" type="text/css" href="main_style.css"></link>  
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">       
-    <meta name="generator" content="PSPad editor, www.pspad.com">       
-    <title> Leprechauns - Baseball in Ravensburg </title> 
+  <link rel="stylesheet" type="text/css" href="main_style.css"></link>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="PSPad editor, www.pspad.com">
+    <title> Leprechauns - Baseball in Ravensburg </title>
 </head>
 
-<!-- Beginn Body 
+<!-- Beginn Body
 --------------- -->
 <body>
 
@@ -15,37 +15,37 @@
 <!-- Beginn container - schlie�t erst ganz am Ende -->
   <!-- Beginn Header -->
   <header>
-  
+
     <div class ="banner">
       <a href="index.php"> <img src="Galerie/banner_Logo.png"> </a>
     </div>
 
   </header>
   <!-- ------------------------------------------------------------------------------------------------->
-  
+
   <!-- Beginn Navigation -->
  <?php
  include ('menue.html');
  ?>
   <!-- Navigation Ende ------------------------------------------------------------------------------->
-  
+
   <div class = "wrapper">
-    
+
     <div class = "box_willkommen">
      <h1><p> Ravensburg Leprechauns - <br>
-             Baseball in Ravensburg </h1> 
-			 <hr></p>          
-     <p id="training"> 
+             Baseball in Ravensburg </h1>
+			 <hr></p>
+     <p id="training">
      <b> Trainingszeiten: </b> <br>
         <span id ="tab"> Montag:</span> 20:15 Uhr <span id ="tab4"> - </span> Spohnturnhalle, Nikolausstra&szlig;e 10  <br>
         <span id ="tab3"> Dienstag:</span> 18:45 Uhr <span id ="tab4"> - </span> Kunstrasenplatz TSB Ravensburg    <br>
         <span id ="tab">    Freitag:</span> 16:30 Uhr <span id ="tab2"> - </span> Kunstrasenplatz TSB Ravensburg (Jugend) <br>
 		<span id ="stollen"> Auf unserem Platz sind keine Metalcleats erlaubt!!! <br>
-		
-		
+
+
      </p>
     </div>
-    
+
     <div class = "box_tabelle">
          <div id ="saison_schrift">
      Ligatabelle
@@ -58,42 +58,42 @@
    <col width="5*">
    <col width="1*">
    <col width="1*">
-   </colgroup> 
+   </colgroup>
     <tr>
      <td> <b> Pl. </b></td>
      <td> <b>Team </b></td>
      <td> <b>G </b></td>
      <td> <b>V </b></td>
      </tr>
-  
+
      <tr>
      <td>1.</td>
      <td id ="team">Aichelberg Indians</td>
      <td>0</td>
      <td>0</td>
      </tr>
-	 
+
 	 <tr id="leps">
      <td>2.</td>
      <td id ="team">Ravensburg Leprechauns</td>
      <td>0</td>
      <td>0</td>
      </tr>
-	 
+
 	 <tr>
      <td>3.</td>
      <td id ="team">Gammertinger Royals 2</td>
      <td>0</td>
      <td>0</td>
      </tr>
-	 
+
 	 	 <tr>
      <td>4.</td>
      <td id ="team">SG Nagold/Herrenberg</td>
      <td>0</td>
      <td>0</td>
      </tr>
-     
+
 
      <tr>
      <td>5.</td>
@@ -103,15 +103,15 @@
      </tr>
 	</table>
     </div>
-    
+
     <div class ="box_news">
      <div id ="saison_schrift">
      Leprechauns News
      <hr>
      </div>
-	 
 
-	 
+
+
      <div>
           <script type="text/javascript" src="Slider/js/jssor.slider.min.js"></script>
     <!-- use jssor.slider.debug.js instead for debug -->
@@ -236,7 +236,7 @@
             <div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
         </div>
 		<div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 600px; height: 400px; overflow: hidden;">
-		    			   
+
 
 			<div data-p="112.50" style="display: none;">
 				<img data-u="image" src="Galerie/BilderNewsLeprechauns/news_leps_indians.png" />
@@ -245,8 +245,8 @@
                          color: black; line-height: 30px; text-align: center;">Die Leps schlagen den Tabellenf&uuml;hrer mit 9:5
 						 <a href="news_leps_indians.php"> <b> weiter... </b> </a></div>
 
-            </div>	
-							  
+            </div>
+
 						<div data-p="112.50" style="display: none;">
 				<img data-u="image" src="Galerie/BilderNewsLeprechauns/news_22-05-2016.jpg" />
 					<div data-u="caption" data-t="0" style="position: absolute; top: 590px; width: 350px; height: 100px;
@@ -255,8 +255,8 @@
 						 <a href="news_leps_indians.php"> <b> weiter... </b> </a></div>
 
             </div>
-		
-						    
+
+
 						<div data-p="112.50" style="display: none;">
 				<img data-u="image" src="Galerie/BilderNewsLeprechauns/training_jm.JPG" />
 					<div data-u="caption" data-t="0" style="position: absolute; top: 590px; width: 350px; height: 100px;
@@ -264,18 +264,18 @@
                          color: black; line-height: 30px; text-align: center;">Erstes Jugendtraining im Ravensburger Baseball<a href="news_trainingjm.php"> <b> weiter... </b> </a></div>
 
             </div>
-		
 
 
-			
-	
 
-			
-			
-			
 
-			
-			
+
+
+
+
+
+
+
+
 
         </div>
         <!-- Bullet Navigator -->
@@ -293,7 +293,7 @@
 
      </div>
     </div>
-    
+
     <div class = "box_twitter">
 	 <div id ="saison_schrift">
      #follow us
@@ -301,56 +301,56 @@
      </div>
 	 <div class ="twitter_box">
      <a class="twitter-timeline" href="https://twitter.com/RV_Leprechauns" data-widget-id="685795081144635392" width="300" height="400">Tweets von @RVLeps </a>
-     
+
      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
 	</div>
-    
+
     <div class = "box_sponsoren">
      <div id ="saison_schrift">
      Hauptsponsor
      <hr>
      </div>
         <div class =hauptsponsor_box>
-       <a href="http://husseinsaleh.de/" target="_blank"> <img src="Galerie/Partner/saleh_logo_leprechauns.jpg"> </a>
+       <a href="http://ravensburg-leprechauns.de" target="_blank"> <img src="Galerie/Partner/hauptsponsor.png"> </a>
         </div>
-        
+
     </div>
-    
+
     <div class ="box_gegner">
      <div id ="saison_schrift">
      N&auml;chster Gegner
      <hr>
      </div>
-     
+
      <div class ="gegner_box">
      <a href="https://www.aichelberg-indians.de/" target="_blank"> <img src="Galerie/logos_gegner/aichelberg.png"> </a>
      </div>
     </div>
-    
+
     <div class ="box_werbung">
      <div id ="saison_schrift">
        Werbung
      <hr>
      </div>
-     
+
      <div>
      <a href="http://baseballminister.sportkanzler.de/ " target="_blank"> <img src="Galerie/Werbung/baseball_minister.png"> </a>
      </div>
-    </div>  
-    
-  </div> 
-  
+    </div>
+
+  </div>
+
   <!-- Beginn Footer --------------------------------------------------------------------------------->
   <footer>
-  
+
   <div class = "footer_box">
     <div class=footer-text>
-    &copy; by Ravensburg Leprechauns 
+    &copy; by Ravensburg Leprechauns
     </div>
-    
-    <div id="social"> 
-      <aside class="sidebar"> 
+
+    <div id="social">
+      <aside class="sidebar">
       <tr>
       <div class = "follow"> <td> <b> #follow us </b> </td> </div>
       <td> <a href="https://www.facebook.com/RavensburgerLeprechauns/?fref=ts" target="_blank"> <img src="Galerie/Icons/icon-facebook.png"> </a>
@@ -359,10 +359,10 @@
       </aside>
     </div>
   </div>
-  
 
-    
-    
+
+
+
   </footer> <!-- Footer schlie�t -->
   </div>  <!-- container schlie�t -->
   </body> <!-- Body schlie�t -->
