@@ -1,12 +1,12 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="main_style.css"></link>  
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">       
-    <meta name="generator" content="PSPad editor, www.pspad.com">       
-    <title> Galerie 2015 </title> 
+  <link rel="stylesheet" type="text/css" href="main_style.css"></link>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="PSPad editor, www.pspad.com">
+    <title> Galerie 2015 </title>
 </head>
 
-<!-- Beginn Body 
+<!-- Beginn Body
 --------------- -->
 <body>
 
@@ -21,20 +21,20 @@
 		$(".fancybox").fancybox();
   	});
     </script>
-    
-    
+
+
 <div class="container">
-<!-- Beginn container - schließt erst ganz am Ende -->
+<!-- Beginn container - schlieï¿½t erst ganz am Ende -->
   <!-- Beginn Header -->
   <header>
-  
+
     <div class ="banner">
       <a href="index.php"> <img src="Galerie/banner_Logo.png"> </a>
     </div>
 
   </header>
   <!-- ------------------------------------------------------------------------------------------------->
-  
+
   <!-- Beginn Navigation -->
  <?php
  include ('menue.html');
@@ -50,17 +50,17 @@
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_1.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_1_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_2.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_5_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_3.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_9_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
-    </div> 
+    </div>
      <div class = "box2">
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_4.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_2_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_5.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_6_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_6.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_10_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
-     </div> 
-     <div class = "box2">      
+     </div>
+     <div class = "box2">
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_7.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_3_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_8.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_7_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_9.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_11_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
-     </div> 
+     </div>
      <div class = "box2">
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_10.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_4_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/Rav_Gam_11.jpg" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/Rav_Gam_8_kl.jpg" alt="Ravensburg-Gammertingen"> </a></li>
@@ -69,18 +69,64 @@
     </ul>
     </div>
       </div>
-  
-  
+
+      <div class ="galerie">
+        <div class ="galerie_text">
+        <h2> Die Leps zu Gast bei den Razorbacks 2015 </h2>
+        <hr>
+          <ul>
+          <div class = "box1">
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb1.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb1_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb2.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb2_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+          </div>
+           <div class = "box2">
+      	 <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb3.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb3_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+          <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb4.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb4_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+           </div>
+           <div class = "box2">
+      	<li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb5.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb5_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb6.png" title="Leps gegen Gammertingen"> <img src="Galerie/Galerie2015/razorbacks/rb6_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+           </div>
+      	  <div class = "box2">
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb7.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb7_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/razorbacks/rb8.png" title="Zu Gast bei den Razorbacks"> <img src="Galerie/Galerie2015/razorbacks/rb8_kl.png" alt="Zu Gast bei den Razorbacks"> </a></li>
+           </div>
+          </ul>
+          </div>
+
+      	  <div class ="galerie_text">
+        <h2> Die Leps bei Ravensburg Spielt 2015 </h2>
+        <hr>
+          <ul>
+          <div class = "box1">
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs1.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs1_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+            <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs2.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs2_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+          </div>
+           <div class = "box2">
+      	<li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs3.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs3_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+      	<li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs4.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs4_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+           </div>
+           <div class = "box2">
+      	<li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs5.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs5_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+           </div>
+      	  <div class = "box2">
+           <li><a class="fancybox" rel="group" href="Galerie/Galerie2015/rvs/rvs6.png" title="Die Leps bei Ravensburg Spielt"> <img src="Galerie/Galerie2015/rvs/rvs6_kl.png" alt="Die Leps bei Ravensburg Spielt"> </a></li>
+           </div>
+          </ul>
+          </div>
+            </div>
+
+
   <!-- Beginn Footer --------------------------------------------------------------------------------->
   <footer>
-  
+
   <div class = "footer_box">
     <div class=footer-text>
-    &copy; by Ravensburg Leprechauns 
+    &copy; by Ravensburg Leprechauns
     </div>
-    
-    <div id="social"> 
-      <aside class="sidebar"> 
+
+    <div id="social">
+      <aside class="sidebar">
       <tr>
       <div class = "follow"> <td> <b> #follow us </b> </td> </div>
       <td> <a href="https://www.facebook.com/RavensburgerLeprechauns/?fref=ts" target="_blank"> <img src="Galerie/Icons/icon-facebook.png"> </a>
@@ -89,9 +135,9 @@
       </aside>
     </div>
   </div>
-    
-    
-  </footer> <!-- Footer schließt -->
-  </div>  <!-- container schließt -->
-  </body> <!-- Body schließt -->
+
+
+  </footer> <!-- Footer schlieï¿½t -->
+  </div>  <!-- container schlieï¿½t -->
+  </body> <!-- Body schlieï¿½t -->
   </html>

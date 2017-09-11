@@ -1,12 +1,12 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="main_style.css"></link>  
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">       
-    <meta name="generator" content="PSPad editor, www.pspad.com">       
-    <title> Galerie 2016 </title> 
+  <link rel="stylesheet" type="text/css" href="main_style.css"></link>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="PSPad editor, www.pspad.com">
+    <title> Galerie 2016 </title>
 </head>
 
-<!-- Beginn Body 
+<!-- Beginn Body
 --------------- -->
 <body>
 
@@ -21,20 +21,20 @@
 		$(".fancybox").fancybox();
   	});
     </script>
-    
-    
+
+
 <div class="container">
-<!-- Beginn container - schließt erst ganz am Ende -->
+<!-- Beginn container - schlieï¿½t erst ganz am Ende -->
   <!-- Beginn Header -->
   <header>
-  
+
     <div class ="banner">
       <a href="index.php"> <img src="Galerie/banner_Logo.png"> </a>
     </div>
 
   </header>
   <!-- ------------------------------------------------------------------------------------------------->
-  
+
   <!-- Beginn Navigation -->
  <?php
  include ('menue.html');
@@ -45,23 +45,24 @@
    <!-- Beginn Galerie -->
 
 <div class ="galerie">
-
       </div>
    </div>
-   
 
-  
-  
+
+
+
+
+
   <!-- Beginn Footer --------------------------------------------------------------------------------->
   <footer>
-  
+
   <div class = "footer_box">
     <div class=footer-text>
-    &copy; by Ravensburg Leprechauns 
+    &copy; by Ravensburg Leprechauns
     </div>
-    
-    <div id="social"> 
-      <aside class="sidebar"> 
+
+    <div id="social">
+      <aside class="sidebar">
       <tr>
       <div class = "follow"> <td> <b> #follow us </b> </td> </div>
       <td> <a href="https://www.facebook.com/RavensburgerLeprechauns/?fref=ts" target="_blank"> <img src="Galerie/Icons/icon-facebook.png"> </a>
@@ -70,9 +71,9 @@
       </aside>
     </div>
   </div>
-    
-    
-  </footer> <!-- Footer schließt -->
-  </div>  <!-- container schließt -->
-  </body> <!-- Body schließt -->
+
+
+  </footer> <!-- Footer schlieï¿½t -->
+  </div>  <!-- container schlieï¿½t -->
+  </body> <!-- Body schlieï¿½t -->
   </html>
