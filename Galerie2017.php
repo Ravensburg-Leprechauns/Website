@@ -52,7 +52,6 @@
        <div class = "box1">
          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/1.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/1kl.jpg" alt="Ravensburg-Spielt"> </a></li>
          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/2.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/2kl.jpg" alt="Ravensburg-Spielt"> </a></li>
-         <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/3.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/3kl.jpg" alt="Ravensburg-Spielt"> </a></li>
        </div>
         <div class = "box2">
          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/4.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/4kl.jpg" alt="Ravensburg-Spielt"> </a></li>
@@ -65,8 +64,8 @@
          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/10.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/10kl.jpg" alt="Ravensburg-Spielt"> </a></li>
         </div>
         <div class = "box2">
-<li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/8.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/8kl.jpg" alt="Ravensburg-Spielt"> </a></li>
-
+          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/8.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/8kl.jpg" alt="Ravensburg-Spielt"> </a></li>
+          <li><a class="fancybox" rel="group" href="Galerie/Galerie2017/RV_Spielt/3.jpg" title="Ravensburg Spielt 2017"> <img src="Galerie/Galerie2017/RV_Spielt/3kl.jpg" alt="Ravensburg-Spielt"> </a></li>
         </div>
        </ul>
        </div>
