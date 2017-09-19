@@ -68,7 +68,7 @@
 	
    <div class ="reihe_2">
     <ul>
-	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/pascalspieß.jpg" title="Pascal Spieß"> <img src="Galerie/Playercards/pascalspieß_klein.jpg" alt="Pascal Spieß"> </a></li>
+	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/pascalspiess.jpg" title="Pascal Spieß"> <img src="Galerie/Playercards/pascalspiess_klein.jpg" alt="Pascal Spieß"> </a></li>
 	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/marvinschulz.jpg" title="Marvin Schulz RF"> <img src="Galerie/Playercards/marvinschulz_klein.jpg" alt="Marvin Schulz"> </a></li>
 	     <li><a class="fancybox" rel="group" href="Galerie/Playercards/romanschoen.jpg" title="Roman Sch&ouml;n C& CF" > <img src="Galerie/Playercards/romanschoen_klein.jpg" alt="Roman Sch&ouml;n"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Playercards/mircowengrzic.jpg" title="Mirco Wengrzic"> <img src="Galerie/Playercards/mircowengrzic_klein.jpg" alt="Mirko Wengrzic"> </a></li>
