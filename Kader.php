@@ -3,7 +3,7 @@
   <link rel="stylesheet" type="text/css" href="main_style.css"></link>  
     <meta http-equiv="content-type" content="text/html; charset=utf-8">       
     <meta name="generator" content="PSPad editor, www.pspad.com">       
-    <title> Saison </title> 
+    <title> Kader </title> 
 </head>
 
 <!-- Beginn Body 
@@ -68,9 +68,9 @@
 	
    <div class ="reihe_2">
     <ul>
-	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/marcullrich.jpg" title="Marc Ullrich P & CF"> <img src="Galerie/Playercards/marcullrich_klein.jpg" alt="Marc Ullrich"> </a></li>
+	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/pascalspieß.jpg" title="Pascal Spieß"> <img src="Galerie/Playercards/pascalspieß_klein.jpg" alt="Pascal Spieß"> </a></li>
 	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/marvinschulz.jpg" title="Marvin Schulz RF"> <img src="Galerie/Playercards/marvinschulz_klein.jpg" alt="Marvin Schulz"> </a></li>
-	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/adriangerste.jpg" title="Adrian Gerste SS & P"> <img src="Galerie/Playercards/adriangerste_klein.jpg" alt="Adrian Gerste"> </a></li>
+	     <li><a class="fancybox" rel="group" href="Galerie/Playercards/romanschoen.jpg" title="Roman Sch&ouml;n C& CF" > <img src="Galerie/Playercards/romanschoen_klein.jpg" alt="Roman Sch&ouml;n"> </a></li>
       <li><a class="fancybox" rel="group" href="Galerie/Playercards/mircowengrzic.jpg" title="Mirco Wengrzic"> <img src="Galerie/Playercards/mircowengrzic_klein.jpg" alt="Mirko Wengrzic"> </a></li>
     </ul>
    </div>
@@ -88,8 +88,6 @@
     <ul>
 	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/elmargoetz.jpg" title="Elmar G&ouml;tz"> <img src="Galerie/Playercards/elmargoetz_klein.jpg" alt="Elmar Goetz"> </a></li>  
 	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/georgschaefer.jpg" title="Georg Sch&auml;fer 1B & RF"> <img src="Galerie/Playercards/georgschaefer_klein.jpg" alt="Georg Sch&auml;fer"> </a></li>
-	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/romanschoen.jpg" title="Roman Sch&ouml;n C& CF" > <img src="Galerie/Playercards/romanschoen_klein.jpg" alt="Roman Sch&ouml;n"> </a></li>
-	  <li><a class="fancybox" rel="group" href="Galerie/Playercards/nicoschendel.jpg" title="Nico Schendel"> <img src="Galerie/Playercards/nicoschendel_klein.jpg" alt="Nico Schendel"> </a></li>
     </ul>
    </div>
   </div>
